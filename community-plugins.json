@@ -17365,7 +17365,6 @@
     "author": "goderyu",
     "description": "Render Unreal Engine Blueprint nodes as interactive visual diagrams using BlueprintUE rendering engine",
     "repo": "goderyu/obsidian-blueprint-renderer"
-  }
   },
   {
     "id": "countdown-to",
