@@ -17360,13 +17360,6 @@
     "repo": "zigholding/obsidian-notesync-plugin"
   },
   {
-    "id": "blueprint-renderer",
-    "name": "Blueprint Renderer",
-    "author": "goderyu",
-    "description": "Render Unreal Engine Blueprint nodes as interactive visual diagrams using BlueprintUE rendering engine",
-    "repo": "goderyu/obsidian-blueprint-renderer"
-  },
-  {
     "id": "countdown-to",
     "name": "Countdown To",
     "author": "Gui Cattani",
@@ -17477,5 +17470,12 @@
     "author": "Zarstensen",
     "description": "Evaluate, solve and much more within LaTeX blocks using Sympy.",
     "repo": "zarstensen/obsidian-latex-math"
+  },
+  {
+    "id": "blueprint-renderer",
+    "name": "Blueprint Renderer",
+    "author": "goderyu",
+    "description": "Render Unreal Engine Blueprint nodes as interactive visual diagrams using BlueprintUE rendering engine",
+    "repo": "goderyu/obsidian-blueprint-renderer"
   }
 ]
